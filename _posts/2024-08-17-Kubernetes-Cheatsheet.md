@@ -2,7 +2,7 @@
 layout: post
 title: Kubernetes Cheatshet
 datetime: 2024-08-17 18:32:00
-categories: devops, cheatsheet
+categories: devops cheatsheet
 ---
 
 ## Basic commands
